@@ -1,6 +1,6 @@
 **To Watch a Live Demo**
 
-https://cc-rewards-optimizer-with-3bmlf0xsx-shreepad-avhads-projects.vercel.app
+https://cc-rewardz-app.vercel.app/
 
 🔍  Inspect: https://vercel.com/shreepad-avhads-projects/cc-rewards-optimizer-with-ai/8AwVmG9DWkpjw1rZ5gehMn56ozBF
 
