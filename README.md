@@ -1,3 +1,9 @@
+To Watch a Live Demo
+
+🔍  Inspect: https://vercel.com/shreepad-avhads-projects/cc-rewards-optimizer-with-ai/8AwVmG9DWkpjw1rZ5gehMn56ozBF
+✅  Production: https://cc-rewards-optimizer-with-3bmlf0xsx-shreepad-avhads-projects.vercel.app 
+📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F)
+
 **How to Run This Project Locally....**
 
 Here's a step-by-step guide to set up and run the AI-powered credit card rewards optimization app on your local machine:
