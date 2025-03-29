@@ -1,7 +1,7 @@
 To Watch a Live Demo
 
-🔍  Inspect: https://vercel.com/shreepad-avhads-projects/cc-rewards-optimizer-with-ai/8AwVmG9DWkpjw1rZ5gehMn56ozBF
-✅  Production: https://cc-rewards-optimizer-with-3bmlf0xsx-shreepad-avhads-projects.vercel.app 
+🔍  Inspect: https://vercel.com/shreepad-avhads-projects/cc-rewards-optimizer-with-ai/8AwVmG9DWkpjw1rZ5gehMn56ozBF \n
+✅  Production: https://cc-rewards-optimizer-with-3bmlf0xsx-shreepad-avhads-projects.vercel.app \n
 📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F)
 
 **How to Run This Project Locally....**
